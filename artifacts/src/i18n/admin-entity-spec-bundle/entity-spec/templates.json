@@ -211,7 +211,7 @@
       "ismandatory": "true",
       "options": [
         {
-          "code": "txt",
+          "value": "txt",
           "label": {
             "eng": "Text File",
             "ara": "ملف نصي",
@@ -222,7 +222,7 @@
           }
         },
         {
-          "code": "xml",
+          "value": "xml",
           "label": {
             "eng": "Xml File",
             "ara": "ملف XML",
@@ -233,7 +233,7 @@
           }
         },
         {
-          "code": "json",
+          "value": "json",
           "label": {
             "eng": "Json File",
             "ara": "ملف JSON",
@@ -244,7 +244,7 @@
           }
         },
         {
-          "code": "html",
+          "value": "html",
           "label": {
             "eng": "Html File",
             "ara": "ملف HTML",
